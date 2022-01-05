@@ -33,14 +33,14 @@
 
 ## General Secretary
 
-**\*Student’s Association of Artificial Intelligence (G H Raisoni College of Engineering and Management)** , Pune – (November 2021 - Present)\*
+_**Student’s Association of Artificial Intelligence (G H Raisoni College of Engineering and Management)** , Pune – (November 2021 - Present)_
 
 - My role as a General Secretary is to cultivate a community of students who are interested in learning technical skills.
 - Provide student with a platform and mentors with help from the College Faculty, to seek those skills.
 
 ## **Students Council Members**
 
-**\*Junior College Students Council (Tilak Junior College of Science)** , Navi-Mumbai– (June 2019 - April 2020)\*
+_**Junior College Students Council (Tilak Junior College of Science)** , Navi-Mumbai– (June 2019 - April 2020)_
 
 - Designed and Documented all the college events into 450 pages College Dossier For Accreditation of British Council
 - Result College Dossier was Appreciated & Accredited By British Council(2019)
@@ -51,8 +51,8 @@
 
 ## **Bachelor's of Technology Artificial Intelligence -** Pursuing**.**
 
-**\*G H Raisoni College of Engineering and Management,\*** \* Pune– (2020 - Present).\*
+_**G H Raisoni College of Engineering and Management,** Pune– (2020 - Present)._
 
 ## **12 Grade (Science).**
 
-**\*Tilak Junior College of Science,\*** \* Nerul- (2018 - 2020).\*
+_**Tilak Junior College of Science,** Nerul- (2018 - 2020)._
