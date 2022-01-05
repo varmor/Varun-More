@@ -51,8 +51,8 @@
 
 ## **Bachelor's of Technology Artificial Intelligence -** Pursuing**.**
 
-**\*G H Raisoni College of Engineering and Management,** Pune– (2020 - Present).\*
+**\*G H Raisoni College of Engineering and Management,\*** \* Pune– (2020 - Present).\*
 
 ## **12 Grade (Science).**
 
-**\*Tilak Junior College of Science,** Nerul- (2018 - 2020).\*
+**\*Tilak Junior College of Science,\*** \* Nerul- (2018 - 2020).\*
