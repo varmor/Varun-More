@@ -1,12 +1,6 @@
 # Resume
 
-# <<<<<<< HEAD
-
-> > > > > > > f73bdf8ff92f7e9be1edd0ea4c62119ecedca557
-
 ### Aspiring Machine Learning Engineer 📊| Computer Science💻 + Artificial Intelligence🧠 | Python, C++, C Programming, JavaScript |Learning German 🗣
-
-<<<<<<< HEAD
 
 # 👨‍💼About me
 
