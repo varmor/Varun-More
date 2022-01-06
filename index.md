@@ -12,7 +12,7 @@
 
 📧 Mail id: [morevarun4004@gmail.com](mailto: morevarun4004@gmail.com)
 
-🐦 Twitter: [https://twitter.com/VarunMo05163683](https://twitter.com/VarunMo05163683)
+🐦 Twitter: [https://twitter.com/thisisvarunmore](https://twitter.com/thisisvarunmore)
 
 🔗 LinkedIn: [https://www.linkedin.com/in/varun-more/](https://www.linkedin.com/in/varun-more/)
 
@@ -49,12 +49,10 @@ _**Junior College Students Council (Tilak Junior College of Science)** , Navi-Mu
 
 # 🎓 Education
 
-## **Bachelor's of Technology Artificial Intelligence -** Pursuing**.**
-
+## **Bachelor's of Technology Artificial Intelligence - Pursuing**.
 _**G H Raisoni College of Engineering and Management,** Pune– (2020 - Present)._
 
 ## **12 Grade (Science).**
-
 _**Tilak Junior College of Science,** Nerul- (2018 - 2020)._
 
 ---
