@@ -31,12 +31,26 @@
 
 # **🔬** Volunteering experience
 
+## T&P Co-Coordinator
+
+_**A.C.I.T.E.S  (G H Raisoni College of Engineering and Management)** , Pune – (November 2021 - Present)_
+
+- Coordinate with the Dean of GHRCEM's Training and Placement Cell.
+- Create numerous mock interviews and quizzes reports.
+- Establish a link between students and the Training and Placement Cell.
+
+
 ## General Secretary
 
 _**Student’s Association of Artificial Intelligence (G H Raisoni College of Engineering and Management)** , Pune – (November 2021 - Present)_
 
-- My role as a General Secretary is to cultivate a community of students who are interested in learning technical skills.
-- Provide student with a platform and mentors with help from the College Faculty, to seek those skills.
+- Lead a team of 12 colleagues, handling all aspects of local team management.
+- Coordinating and establishing effective communication between students and faculty for various college activities/events.
+- Provide students with a platform and mentors with help from the College Faculty, to seek Technical, Non-Technical skills.
+- Organised an institute-level workshop on "Personality Development" at the institutional level.
+- Convened a seminar on "Biostatistics and Analytics Applications" at the institutional level.
+- Coordinated and oversaw a departmental "Research Writing" activity.
+
 
 ## **Students Council Members**
 
@@ -49,10 +63,10 @@ _**Junior College Students Council (Tilak Junior College of Science)** , Navi-Mu
 
 # 🎓 Education
 
-## **Bachelor's of Technology Artificial Intelligence - Pursuing**.
+### **Bachelor's of Technology Artificial Intelligence - Pursuing**.
 _**G H Raisoni College of Engineering and Management,** Pune– (2020 - Present)._
 
-## **12 Grade (Science).**
+### **12 Grade (Science).**
 _**Tilak Junior College of Science,** Nerul- (2018 - 2020)._
 
 ---
