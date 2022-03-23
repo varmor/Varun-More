@@ -76,3 +76,6 @@ _**Tilak Junior College of Science,** Nerul- (2018 - 2020)._
 ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varmor&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Varun's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=varmor&layout=compact&langs_count=8&hide_border=true)
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=varmor.github.io/)
+
