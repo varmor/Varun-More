@@ -12,18 +12,21 @@
 
 # 👨‍💼About me
 
->Hi, I'm an intermediate Engineering Major at @GHRCEM, Pune, and an aspiring Machine Learning Engineer who enjoys connecting the dots, ideas from different disciplines, people from different teams, or applications from different industries, my passion lies in solving data science and machine learning problems while communicating complex ideas to non-technical stakeholders. I have good technical abilities as well as an academic background in Engineering (Computer Science + Artificial Intelligence).
+>Currently, saying YES to great opportunities, and Seeking to leverage my technical skills and further hone them.
 
+Hello, my name is Varun More and I am a third-year Artificial Intelligence Engineering major at G.H. Raisoni College of Engineering and Management in Pune. I like networking with people from various teams. I have a strong interest in problem-solving and understanding new technology.
+
+I have some experience working in startups as a software intern. I'm graduating in May 2024 and I'm looking for an opportunity to expand my horizons.
 
 
 ---
 
 # 🛠 Skills
 
-- ⌨ **Programming Language:** _Python, C++, C Programming, C#._
+- ⌨ **Programming Language:** _Python, C#, JavaScript, C++._
 - 💻 **Frame-works - Tools:**  *Flask, .NET, Blazor, Syncfusion, Bootstrap, Scikit-Learn, NLTK, Pandas, Numpy*.
 - **🗣 Language:** _English, Hindi, Marathi & German [Learning]_.
-- 🤝 **Soft Skills:** _Leadership, Team Management, Public Speaking_.
+- 🤝 **Soft Skills:** _Leadership, Team Management, Team Work, Communication, Public Speaking_.
 
 ---
 
