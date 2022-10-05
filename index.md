@@ -19,7 +19,7 @@ Hello, my name is Varun More and I am a third-year Artificial Intelligence Engin
 I have some experience working in startups as a software intern. I'm graduating in May 2024 and I'm looking for an opportunity to expand my horizons.
 
 
----
+
 
 # 🛠 Skills
 
@@ -28,7 +28,7 @@ I have some experience working in startups as a software intern. I'm graduating 
 - **🗣 Language:** _English, Hindi, Marathi & German [Learning]_.
 - 🤝 **Soft Skills:** _Leadership, Team Management, Team Work, Communication, Public Speaking_.
 
----
+
 
 
 # **🔬**Work  Experience
@@ -58,7 +58,7 @@ I have some experience working in startups as a software intern. I'm graduating 
   - Designed and Documented all the college events into 450 pages College Dossier For Accreditation of British Council
   - Result College Dossier was Appreciated & Accredited By British Council(2019)
 
----
+
 
 # ⚒ Projects 
 <p align = "center">
@@ -72,7 +72,7 @@ I have some experience working in startups as a software intern. I'm graduating 
 - #### 📚 **[B.Tech in Artificial Intelligence](https://ghrcem.raisoni.net/artificial-intelligence) | G H Raisoni College of Engineering and Management** [_2020 - Present_]
   - _Relevant Course Work_: **Foundational Data Analytics & Statistics, Artificial Intelligence Knowledge Representation, Data Preprocessing, Machine Learning**    
 
----
+
 
 ## My GitHub Stats:
 
