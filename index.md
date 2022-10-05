@@ -12,7 +12,7 @@
 
 # 👨‍💼About me
 
->Currently, saying YES to great opportunities, and Seeking to leverage my technical skills and further hone them.
+Currently, saying YES to great opportunities, and Seeking to leverage my technical skills and further hone them.
 
 Hello, my name is Varun More and I am a third-year Artificial Intelligence Engineering major at G.H. Raisoni College of Engineering and Management in Pune. I like networking with people from various teams. I have a strong interest in problem-solving and understanding new technology.
 
